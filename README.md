@@ -4,13 +4,7 @@ This is a simple Linux Shell made in C. This project was made for the Operating 
 
 ## Running the shell
 
-To run the shell, dowload the repository 
-
-```
-git clone
-```
-
-Navigate to the Makefile and run it
+To run the shell, dowload the repository and navigate to the Makefile and run it
 
 ```
 $make
@@ -31,7 +25,7 @@ $ export PATH=$PATH: falsh
 To learn more about what falsh does, use the -h flag
 
 ```
-./falsh -h
+falsh -h
 ```
 
 ## Authors
