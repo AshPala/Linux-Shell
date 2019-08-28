@@ -27,6 +27,3 @@ To learn more about what falsh does, use the -h flag
 ```
 falsh -h
 ```
-
-## Authors
-Akshy Palanisamy
