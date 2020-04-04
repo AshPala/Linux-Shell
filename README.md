@@ -1,6 +1,6 @@
 # Linux Shell 
 
-This is a simple Linux Shell made in C. This project was made for the Operating Systems course.
+This is a simple Linux Shell made in C. 
 
 ## Running the shell
 
